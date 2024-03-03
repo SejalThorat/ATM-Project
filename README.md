@@ -1,5 +1,6 @@
 # ATM-Project-In-Java
 This repository contains an ATM Management System project implemented in Java.
+
 This Java project implements a basic Automated Teller Machine (ATM) system with core banking functionalities. Check balances, withdraw, deposit amounts between accounts,View mini bank statements. The project utilizes exception handling for input validation and a HashMap to store/fetch account details.
 
 Instructions To run the program, follow these steps:
