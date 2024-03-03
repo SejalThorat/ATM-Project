@@ -5,13 +5,13 @@ This Java project implements a basic Automated Teller Machine (ATM) system with 
 
 Project Structure
 
-Main.java: From which we will call the methods required and write the print statements displayed to the user.
+Main.java:  From which we will call the methods required and write the print statements displayed to the user.
 
-AtmOperations.java: Class representing to write the method logic mentioned in the AtmOpInterface & also user input handling.
+AtmOperations.java:  Class representing to write the method logic mentioned in the AtmOpInterface & also user input handling.
 
-ATM.java: Class used to create the important variables to store balance, deposit amount, and Withdraw amount. Then getters and setters methods for those variables are created.
+ATM.java:  Class used to create the important variables to store balance, deposit amount, and Withdraw amount. Then getters and setters methods for those variables are created.
 
-AtmOpInterface.java:  This interface contains method declaration to view the balance, withdraw amount, deposit amount, and view the mini statement.
+AtmOpInterface.java:   This interface contains method declaration to view the balance, withdraw amount, deposit amount, and view the mini statement.
 
 Instructions To run the program, follow these steps:
 
